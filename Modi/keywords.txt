@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Modi
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Modi	KEYWORD1	Modi
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+smoothAmount	KEYWORD2
+refresh	KEYWORD2
+numMux	KEYWORD2
+muxChannels	KEYWORD2
+getReading	KEYWORD2
+slideType	KEYWORD2
+analogType	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

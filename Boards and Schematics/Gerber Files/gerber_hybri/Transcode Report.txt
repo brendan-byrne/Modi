@@ -1,0 +1,7 @@
+
+
+   ---- Transcoding 'C:\Users\nopanda\Desktop\Projects\Modi\Gerber Files\gerber_hybri\modularHybri.GTL' ----   Thu Sep 04 17:01:52 2014
+
+D16   --> D100
+D17   --> D101
+-----------------------------------------------------------------
