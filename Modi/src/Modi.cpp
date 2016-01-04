@@ -52,7 +52,7 @@ void Modi::refresh() {
         finalVals[y][muxOrganize[x]] = rawVal;           // Assign the reading to the finalVals[][] array
       }
     }
-    digitalWrite(changePins[x], changeVals[x]);          // Change the selection pins based on the two Gray Code arrays
+    digitalWrite(selPins[changePins[x]], changeVals[x]); // Change the selection pins based on the two Gray Code arrays
   }
 }
 
